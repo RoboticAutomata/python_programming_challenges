@@ -16,4 +16,5 @@ pytest --doctest-modules fizz_buzz.py
 
 ## Resources
 
-Hopefully soon we'll get a video of this on Youtube and a blog post uploaded :)
+- [Live Coding Demo on Youtube](https://youtu.be/-BTSumaqaZc)
+- [Follow Along Tutorial on Medium](https://medium.com/@RoboticAutomata/solving-fizz-buzz-with-python-4f489710a99d)
